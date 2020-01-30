@@ -36,11 +36,11 @@ import * as plugin from 'flowplayer-audio';
 engine(flowplayer);
 plugin(flowplayer);
 
-const playerKey: string = '$376358022683907';
+const playerKey: string = process.env.VUE_APP_PLAYER_KEY;
 
-const streamServer: string = 'https://stream.dlib.nyu.edu/hls-vod';
+const streamServer: string = process.env.VUE_APP_STREAM_SERVER;
 
-const fileServer: string = 'https://sites.dlib.nyu.edu/media/sites/default/files';
+const fileServer: string = process.env.VUE_APP_FILE_SERVER;
 
 const resourcesEndpoint: string = `${process.env.BASE_URL}/resources`;
 
