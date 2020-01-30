@@ -42,6 +42,8 @@ const streamServer: string = 'https://stream.dlib.nyu.edu/hls-vod';
 
 const fileServer: string = 'https://sites.dlib.nyu.edu/media/sites/default/files';
 
+const resourcesEndpoint: string = `${process.env.BASE_URL}/resources`;
+
 interface Manifest {
   type: string;
   src: string;
@@ -58,7 +60,7 @@ interface Clip {
 export default Vue.extend({
   data() {
     return {
-      endpoint: '../resources',
+      endpoint: resourcesEndpoint,
       title: '',
       identifier: '',
       type: '',
