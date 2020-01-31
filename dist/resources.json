@@ -1,0 +1,1012 @@
+{
+  "data": [
+    {
+      "id": "fales/beard/Benepe_Barry-interview_2",
+      "label": "Benepe_Barry-interview_2",
+      "identifier": "0367db7aa05d7cfea3bfdc2fb4c35c75",
+      "type": "audio",
+      "partner": "fales",
+      "collection": "beard"
+    },
+    {
+      "id": "fales/beard/Nestle_Marion-interview_2",
+      "label": "Nestle_Marion-interview_2",
+      "identifier": "08c7800d2043417f284898cc63e5f182",
+      "type": "audio",
+      "partner": "fales",
+      "collection": "beard"
+    },
+    {
+      "id": "fales/beard/Jaffrey_Madhur-interview_2",
+      "label": "Jaffrey_Madhur-interview_2",
+      "identifier": "0df41826dd5942d7061847e5c9242423",
+      "type": "audio",
+      "partner": "fales",
+      "collection": "beard"
+    },
+    {
+      "id": "fales/beard/Fussell_Betty-interview_2",
+      "label": "Fussell_Betty-interview_2",
+      "identifier": "12fb862ec1598fab053a3ecf3a6a2468",
+      "type": "audio",
+      "partner": "fales",
+      "collection": "beard"
+    },
+    {
+      "id": "fales/beard/Carmel_Dalia-interview_1",
+      "label": "Carmel_Dalia-interview_1",
+      "identifier": "15f5d88270652926477b7427139c10ba",
+      "type": "audio",
+      "partner": "fales",
+      "collection": "beard"
+    },
+    {
+      "id": "fales/beard/Jones_Judith-interview_2",
+      "label": "Jones_Judith-interview_2",
+      "identifier": "1779737b1114ee583657ed6e7292ac4a",
+      "type": "audio",
+      "partner": "fales",
+      "collection": "beard"
+    },
+    {
+      "id": "fales/beard/Ferrone_John-interview_1",
+      "label": "Ferrone_John-interview_1",
+      "identifier": "1d01cbdf053bba480a9039ff8c86b88b",
+      "type": "audio",
+      "partner": "fales",
+      "collection": "beard"
+    },
+    {
+      "id": "fales/beard/Schumacher_Gus-interview_1",
+      "label": "Schumacher_Gus-interview_1",
+      "identifier": "1e254a725b83ce605e7985bf382904a8",
+      "type": "audio",
+      "partner": "fales",
+      "collection": "beard"
+    },
+    {
+      "id": "fales/beard/Sheraton_Mimi-interview_2",
+      "label": "Sheraton_Mimi-interview_2",
+      "identifier": "2645d384fe112ea6fc7281359b077159",
+      "type": "audio",
+      "partner": "fales",
+      "collection": "beard"
+    },
+    {
+      "id": "fales/beard/Colicchio_Tom-interview_2",
+      "label": "Colicchio_Tom-interview_2",
+      "identifier": "27bd48e87db8239bd3708967c8de6797",
+      "type": "audio",
+      "partner": "fales",
+      "collection": "beard"
+    },
+    {
+      "id": "fales/beard/Kafka_Barbara-interview_2",
+      "label": "Kafka_Barbara-interview_2",
+      "identifier": "2b45407b8f290c029fbb3694bdff8194",
+      "type": "audio",
+      "partner": "fales",
+      "collection": "beard"
+    },
+    {
+      "id": "fales/beard/Fussell_Betty-interview_1",
+      "label": "Fussell_Betty-interview_1",
+      "identifier": "2b850a686f6ec53cf7855bade1565214",
+      "type": "audio",
+      "partner": "fales",
+      "collection": "beard"
+    },
+    {
+      "id": "fales/beard/Bastianich_Lidia-interview_2",
+      "label": "Bastianich_Lidia-interview_2",
+      "identifier": "2bbe705854837a8f190d1cf430b7ff9e",
+      "type": "audio",
+      "partner": "fales",
+      "collection": "beard"
+    },
+    {
+      "id": "fales/beard/Barber_Dan-interview_1",
+      "label": "Barber_Dan-interview_1",
+      "identifier": "37c11ab71472b4488eabeb04db5e8382",
+      "type": "audio",
+      "partner": "fales",
+      "collection": "beard"
+    },
+    {
+      "id": "fales/beard/Wolf_Clark-interview_1",
+      "label": "Wolf_Clark-interview_1",
+      "identifier": "46e1327f2e220570f5b6a6f2fa14acd6",
+      "type": "audio",
+      "partner": "fales",
+      "collection": "beard"
+    },
+    {
+      "id": "fales/beard/Zagat_Nina-interview_1",
+      "label": "Zagat_Nina-interview_1",
+      "identifier": "4b92cf2274a553370ad2500012e7f22d",
+      "type": "audio",
+      "partner": "fales",
+      "collection": "beard"
+    },
+    {
+      "id": "fales/beard/Bastianich_Lidia-interview_1",
+      "label": "Bastianich_Lidia-interview_1",
+      "identifier": "4bfe1a86f5706e1785cd21a4a74e1c05",
+      "type": "audio",
+      "partner": "fales",
+      "collection": "beard"
+    },
+    {
+      "id": "fales/beard/Ferrone_John-interview_3",
+      "label": "Ferrone_John-interview_3",
+      "identifier": "4c3c3562fd72a7c8342fab8ef731a06e",
+      "type": "audio",
+      "partner": "fales",
+      "collection": "beard"
+    },
+    {
+      "id": "fales/beard/Schonfeld_Reese-interview_1",
+      "label": "Schonfeld_Reese-interview_1",
+      "identifier": "4d255808964c2127dc5f7fce46603f43",
+      "type": "audio",
+      "partner": "fales",
+      "collection": "beard"
+    },
+    {
+      "id": "fales/beard/Kafka_Barbara-interview_3",
+      "label": "Kafka_Barbara-interview_3",
+      "identifier": "4dab8789f661bb66e730a492dcb8fcfa",
+      "type": "audio",
+      "partner": "fales",
+      "collection": "beard"
+    },
+    {
+      "id": "fales/beard/Zagat_Tim-interview_1",
+      "label": "Zagat_Tim-interview_1",
+      "identifier": "54f8c98f0268dc977a2d8d7dd9500f69",
+      "type": "audio",
+      "partner": "fales",
+      "collection": "beard"
+    },
+    {
+      "id": "fales/beard/Nestle_Marion-interview_1",
+      "label": "Nestle_Marion-interview_1",
+      "identifier": "57457f5730bd9e47621f68347ee9d0bd",
+      "type": "audio",
+      "partner": "fales",
+      "collection": "beard"
+    },
+    {
+      "id": "fales/beard/Ferrone_John-interview_2",
+      "label": "Ferrone_John-interview_2",
+      "identifier": "5e2e273a77106f9b26f93bb1e98e1996",
+      "type": "audio",
+      "partner": "fales",
+      "collection": "beard"
+    },
+    {
+      "id": "fales/beard/Whiteman_Michael-interview_1",
+      "label": "Whiteman_Michael-interview_1",
+      "identifier": "7033d4fb9df383ab1f8f0d8b2ccf9e41",
+      "type": "audio",
+      "partner": "fales",
+      "collection": "beard"
+    },
+    {
+      "id": "fales/beard/Carmel_Dalia-interview_2",
+      "label": "Carmel_Dalia-interview_2",
+      "identifier": "709d21e3f4405bd289705eed67bfcd14",
+      "type": "audio",
+      "partner": "fales",
+      "collection": "beard"
+    },
+    {
+      "id": "fales/beard/Benepe_Barry-interview_1",
+      "label": "Benepe_Barry-interview_1",
+      "identifier": "7714e68657064420e98d05d999f19cce",
+      "type": "audio",
+      "partner": "fales",
+      "collection": "beard"
+    },
+    {
+      "id": "fales/beard/Greene_Gael-interview_1",
+      "label": "Greene_Gael-interview_1",
+      "identifier": "7a73ab0da58e4f53ab77182fba75b250",
+      "type": "audio",
+      "partner": "fales",
+      "collection": "beard"
+    },
+    {
+      "id": "fales/beard/Kafka_Barbara-interview_1",
+      "label": "Kafka_Barbara-interview_1",
+      "identifier": "7d33536551c48d61186b4c9af603ecab",
+      "type": "audio",
+      "partner": "fales",
+      "collection": "beard"
+    },
+    {
+      "id": "fales/beard/Colicchio_Tom-interview_1",
+      "label": "Colicchio_Tom-interview_1",
+      "identifier": "7f17cdf0da9cf58c7577b03e8986419b",
+      "type": "audio",
+      "partner": "fales",
+      "collection": "beard"
+    },
+    {
+      "id": "fales/beard/Imhoff_Dan-interview_1",
+      "label": "Imhoff_Dan-interview_1",
+      "identifier": "83623c098031a8ee3f6e02b7c99d6ed6",
+      "type": "audio",
+      "partner": "fales",
+      "collection": "beard"
+    },
+    {
+      "id": "fales/beard/Nestle_Marion-interview_3",
+      "label": "Nestle_Marion-interview_3",
+      "identifier": "92714c2360fd36a17f4ac1e7ddbf2c3c",
+      "type": "audio",
+      "partner": "fales",
+      "collection": "beard"
+    },
+    {
+      "id": "fales/beard/Jones_Judith-interview_1",
+      "label": "Jones_Judith-interview_1",
+      "identifier": "9c324e5a6bd9084e58a82d3021ceab56",
+      "type": "audio",
+      "partner": "fales",
+      "collection": "beard"
+    },
+    {
+      "id": "fales/beard/Baum_Hilary-interview_1",
+      "label": "Baum_Hilary-interview_1",
+      "identifier": "9c59e2d4d0e565dddc424bf6a149832b",
+      "type": "audio",
+      "partner": "fales",
+      "collection": "beard"
+    },
+    {
+      "id": "fales/beard/Barber_Dan-interview_2",
+      "label": "Barber_Dan-interview_2",
+      "identifier": "aba98ec19d16f7bd1af3b85325ae696c",
+      "type": "audio",
+      "partner": "fales",
+      "collection": "beard"
+    },
+    {
+      "id": "fales/beard/Sheraton_Mimi-interview_1",
+      "label": "Sheraton_Mimi-interview_1",
+      "identifier": "af09daab59d492374b8fc95ff9eeed1d",
+      "type": "audio",
+      "partner": "fales",
+      "collection": "beard"
+    },
+    {
+      "id": "fales/beard/Barber_Dan-interview_3",
+      "label": "Barber_Dan-interview_3",
+      "identifier": "b28c2118ac266a62505f8f5a978a3f6c",
+      "type": "audio",
+      "partner": "fales",
+      "collection": "beard"
+    },
+    {
+      "id": "fales/beard/Batterberry_Ariane-interview_1",
+      "label": "Batterberry_Ariane-interview_1",
+      "identifier": "b483bcac916669751d12a9f42dd6a5c6",
+      "type": "audio",
+      "partner": "fales",
+      "collection": "beard"
+    },
+    {
+      "id": "fales/beard/Pepin_Jacques-interview_1",
+      "label": "Pepin_Jacques-interview_1",
+      "identifier": "bd276a5bf8b4a3098ccc7653054af23b",
+      "type": "audio",
+      "partner": "fales",
+      "collection": "beard"
+    },
+    {
+      "id": "fales/beard/WhiteViazzi_Jane-interview_1",
+      "label": "WhiteViazzi_Jane-interview_1",
+      "identifier": "be6c1c070013f544d1a8d6e1c6ad6260",
+      "type": "audio",
+      "partner": "fales",
+      "collection": "beard"
+    },
+    {
+      "id": "fales/beard/Schumacher_Gus-interview_2",
+      "label": "Schumacher_Gus-interview_2",
+      "identifier": "cdfcba34085407f54617d9cb50cbcd8c",
+      "type": "audio",
+      "partner": "fales",
+      "collection": "beard"
+    },
+    {
+      "id": "fales/beard/Fussell_Betty-interview_3",
+      "label": "Fussell_Betty-interview_3",
+      "identifier": "d39e657145344eb587a8c1e950fd2b23",
+      "type": "audio",
+      "partner": "fales",
+      "collection": "beard"
+    },
+    {
+      "id": "fales/beard/Jaffrey_Madhur-interview_1",
+      "label": "Jaffrey_Madhur-interview_1",
+      "identifier": "dc8ee5025122d182f28ba20aae3a4a1f",
+      "type": "audio",
+      "partner": "fales",
+      "collection": "beard"
+    },
+    {
+      "id": "fales/beard/Sax_Irene-interview_1",
+      "label": "Sax_Irene-interview_1",
+      "identifier": "f18a27ee184294ba568a4d92bc065213",
+      "type": "audio",
+      "partner": "fales",
+      "collection": "beard"
+    },
+    {
+      "id": "fales/beard/Batterberry_Michael-interview_2",
+      "label": "Batterberry_Michael-interview_2",
+      "identifier": "f1929f8b2095345656b0e0d1e6b15a6b",
+      "type": "audio",
+      "partner": "fales",
+      "collection": "beard"
+    },
+    {
+      "id": "fales/beard/Batterberry_Michael-interview_1",
+      "label": "Batterberry_Michael-interview_1",
+      "identifier": "f1f288dc693b6a7b9114f02aad1f0eb7",
+      "type": "audio",
+      "partner": "fales",
+      "collection": "beard"
+    },
+    {
+      "id": "fales/beard/Wolf_Clark-interview_2",
+      "label": "Wolf_Clark-interview_2",
+      "identifier": "f67f4dc07f2bf3498213603a19e13ae7",
+      "type": "audio",
+      "partner": "fales",
+      "collection": "beard"
+    },
+    {
+      "id": "fales/beard/Federman_Mark-interview_1",
+      "label": "Federman_Mark-interview_1",
+      "identifier": "f7b4f96f1cc3b1741ceee141bd3b9c07",
+      "type": "audio",
+      "partner": "fales",
+      "collection": "beard"
+    },
+    {
+      "id": "fales/beard/Federman_Mark-interview_2",
+      "label": "Federman_Mark-interview_2",
+      "identifier": "fdc7389a6f1c0b9ff7d4d7054703c06c",
+      "type": "audio",
+      "partner": "fales",
+      "collection": "beard"
+    },
+    {
+      "id": "tamwag/oh052/tamwag_OH052_cuid472",
+      "label": "tamwag_OH052_cuid472",
+      "identifier": "03af9b59f7ba6f86aa98fc656670de70",
+      "type": "audio",
+      "partner": "tamwag",
+      "collection": "oh052"
+    },
+    {
+      "id": "tamwag/oh052/tamwag_oh052_cuid228",
+      "label": "tamwag_oh052_cuid228",
+      "identifier": "03dd358958c0e253fdbe5bb4bbd57629",
+      "type": "video",
+      "partner": "tamwag",
+      "collection": "oh052"
+    },
+    {
+      "id": "tamwag/oh052/tamwag_oh052_cuid227",
+      "label": "tamwag_oh052_cuid227",
+      "identifier": "0cca5f77ebc2b2a30bf68e215116ba54",
+      "type": "video",
+      "partner": "tamwag",
+      "collection": "oh052"
+    },
+    {
+      "id": "tamwag/oh052/OH-052_ref52",
+      "label": "OH-052_ref52",
+      "identifier": "0f7819f3a9633cb182d4ee749af4bbc6",
+      "type": "video",
+      "partner": "tamwag",
+      "collection": "oh052"
+    },
+    {
+      "id": "tamwag/oh052/OH-052_ref55",
+      "label": "OH-052_ref55",
+      "identifier": "0fde2f3781aff4b08f9fe6b5149e625b",
+      "type": "video",
+      "partner": "tamwag",
+      "collection": "oh052"
+    },
+    {
+      "id": "tamwag/oh052/OH-052_ref22",
+      "label": "OH-052_ref22",
+      "identifier": "1510041b433eaa202518d76303a6d507",
+      "type": "audio",
+      "partner": "tamwag",
+      "collection": "oh052"
+    },
+    {
+      "id": "tamwag/oh052/tamwag_oh052_cuid223",
+      "label": "tamwag_oh052_cuid223",
+      "identifier": "1e46b311a64552877581ac298b60e1fe",
+      "type": "video",
+      "partner": "tamwag",
+      "collection": "oh052"
+    },
+    {
+      "id": "tamwag/oh052/tamwag_OH052_cuid461",
+      "label": "tamwag_OH052_cuid461",
+      "identifier": "29b7269b4cff44d826e4168a0ad776ee",
+      "type": "audio",
+      "partner": "tamwag",
+      "collection": "oh052"
+    },
+    {
+      "id": "tamwag/oh052/tamwag_oh052_cuid229",
+      "label": "tamwag_oh052_cuid229",
+      "identifier": "359d5a630142277e31d101c8b6737441",
+      "type": "video",
+      "partner": "tamwag",
+      "collection": "oh052"
+    },
+    {
+      "id": "tamwag/oh052/tamwag_OH052_cuid471",
+      "label": "tamwag_OH052_cuid471",
+      "identifier": "3d700c0da9f4d0373478604f9f71606d",
+      "type": "audio",
+      "partner": "tamwag",
+      "collection": "oh052"
+    },
+    {
+      "id": "tamwag/oh052/tamwag_oh052_cuid216",
+      "label": "tamwag_oh052_cuid216",
+      "identifier": "410591ed81a6e65dcffec1776049aea0",
+      "type": "video",
+      "partner": "tamwag",
+      "collection": "oh052"
+    },
+    {
+      "id": "tamwag/oh052/tamwag_oh052_cuid215",
+      "label": "tamwag_oh052_cuid215",
+      "identifier": "4bbf6e0549238a63df61c343d8690d74",
+      "type": "video",
+      "partner": "tamwag",
+      "collection": "oh052"
+    },
+    {
+      "id": "tamwag/oh052/tamwag_oh052_cuid225",
+      "label": "tamwag_oh052_cuid225",
+      "identifier": "52cb44e082cf01fbb5372ce555a4a41d",
+      "type": "video",
+      "partner": "tamwag",
+      "collection": "oh052"
+    },
+    {
+      "id": "tamwag/oh052/tamwag_OH052_cuid463",
+      "label": "tamwag_OH052_cuid463",
+      "identifier": "53409491452423cfd27955e65605ee1d",
+      "type": "audio",
+      "partner": "tamwag",
+      "collection": "oh052"
+    },
+    {
+      "id": "tamwag/oh052/OH-052_ref32",
+      "label": "OH-052_ref32",
+      "identifier": "53cf52f4fd7a8f09ffcce344870664c0",
+      "type": "audio",
+      "partner": "tamwag",
+      "collection": "oh052"
+    },
+    {
+      "id": "tamwag/oh052/tamwag_oh052_cuid214",
+      "label": "tamwag_oh052_cuid214",
+      "identifier": "56917b2585a523b4f7f0ad15a5669f88",
+      "type": "video",
+      "partner": "tamwag",
+      "collection": "oh052"
+    },
+    {
+      "id": "tamwag/oh052/tamwag_OH052_cuid465",
+      "label": "tamwag_OH052_cuid465",
+      "identifier": "5697b13cd766ca706701b4cdfb27688b",
+      "type": "audio",
+      "partner": "tamwag",
+      "collection": "oh052"
+    },
+    {
+      "id": "tamwag/oh052/tamwag_OH052_cuid462",
+      "label": "tamwag_OH052_cuid462",
+      "identifier": "5ce2cccf0da4487b320c244bb03f08e4",
+      "type": "audio",
+      "partner": "tamwag",
+      "collection": "oh052"
+    },
+    {
+      "id": "tamwag/oh052/OH-052_ref31",
+      "label": "OH-052_ref31",
+      "identifier": "68cb7825ac7f46658611c3f7f2989512",
+      "type": "audio",
+      "partner": "tamwag",
+      "collection": "oh052"
+    },
+    {
+      "id": "tamwag/oh052/tamwag_OH052_cuid459",
+      "label": "tamwag_OH052_cuid459",
+      "identifier": "6a84d6e0461620ef80481be7a6826e08",
+      "type": "audio",
+      "partner": "tamwag",
+      "collection": "oh052"
+    },
+    {
+      "id": "tamwag/oh052/tamwag_oh052_cuid226",
+      "label": "tamwag_oh052_cuid226",
+      "identifier": "6ab8f6356eb8f44fc4635a43152c5752",
+      "type": "video",
+      "partner": "tamwag",
+      "collection": "oh052"
+    },
+    {
+      "id": "tamwag/oh052/tamwag_OH052_cuid478",
+      "label": "tamwag_OH052_cuid478",
+      "identifier": "741bc161eb1dbcbf34bdb80c3a887ae4",
+      "type": "audio",
+      "partner": "tamwag",
+      "collection": "oh052"
+    },
+    {
+      "id": "tamwag/oh052/tamwag_oh052_cuid222",
+      "label": "tamwag_oh052_cuid222",
+      "identifier": "79b0bc1d5cbbea7d66f136471b25ecb0",
+      "type": "video",
+      "partner": "tamwag",
+      "collection": "oh052"
+    },
+    {
+      "id": "tamwag/oh052/tamwag_OH052_cuid460",
+      "label": "tamwag_OH052_cuid460",
+      "identifier": "7a72d93e6004e59570fcacb8a33517ae",
+      "type": "audio",
+      "partner": "tamwag",
+      "collection": "oh052"
+    },
+    {
+      "id": "tamwag/oh052/OH-052_ref51",
+      "label": "OH-052_ref51",
+      "identifier": "7dccedecb7d464a29f24342e95d9fe61",
+      "type": "video",
+      "partner": "tamwag",
+      "collection": "oh052"
+    },
+    {
+      "id": "tamwag/oh052/tamwag_oh052_cuid235",
+      "label": "tamwag_oh052_cuid235",
+      "identifier": "82733a232a99456f71f7b839906aa189",
+      "type": "video",
+      "partner": "tamwag",
+      "collection": "oh052"
+    },
+    {
+      "id": "tamwag/oh052/OH-052_ref63",
+      "label": "OH-052_ref63",
+      "identifier": "8d212e52c5a30501343e06a5437a24f2",
+      "type": "video",
+      "partner": "tamwag",
+      "collection": "oh052"
+    },
+    {
+      "id": "tamwag/oh052/OH-052_ref61",
+      "label": "OH-052_ref61",
+      "identifier": "9c3c0e970140ab426cf7a74eaf9c3f76",
+      "type": "video",
+      "partner": "tamwag",
+      "collection": "oh052"
+    },
+    {
+      "id": "tamwag/oh052/tamwag_OH052_cuid458",
+      "label": "tamwag_OH052_cuid458",
+      "identifier": "b15737261443dfcf394a7ef9858629a0",
+      "type": "audio",
+      "partner": "tamwag",
+      "collection": "oh052"
+    },
+    {
+      "id": "tamwag/oh052/tamwag_OH052_cuid469",
+      "label": "tamwag_OH052_cuid469",
+      "identifier": "b23fa4b487fcc3e814a4adf21b1adfbc",
+      "type": "audio",
+      "partner": "tamwag",
+      "collection": "oh052"
+    },
+    {
+      "id": "tamwag/oh052/tamwag_OH052_cuid468",
+      "label": "tamwag_OH052_cuid468",
+      "identifier": "ba8e1b815bb408601f8402de178bc9fa",
+      "type": "audio",
+      "partner": "tamwag",
+      "collection": "oh052"
+    },
+    {
+      "id": "tamwag/oh052/OH-052_ref33",
+      "label": "OH-052_ref33",
+      "identifier": "c077d35e03cdb4317d77f6c41324d5e0",
+      "type": "audio",
+      "partner": "tamwag",
+      "collection": "oh052"
+    },
+    {
+      "id": "tamwag/oh052/tamwag_OH052_cuid477",
+      "label": "tamwag_OH052_cuid477",
+      "identifier": "c4a1b25baaf794d84a5f635c98dabe95",
+      "type": "audio",
+      "partner": "tamwag",
+      "collection": "oh052"
+    },
+    {
+      "id": "tamwag/oh052/tamwag_OH052_cuid476",
+      "label": "tamwag_OH052_cuid476",
+      "identifier": "c6ebf5c7079722ad5c2f6c14033b5728",
+      "type": "audio",
+      "partner": "tamwag",
+      "collection": "oh052"
+    },
+    {
+      "id": "tamwag/oh052/tamwag_OH052_cuid470",
+      "label": "tamwag_OH052_cuid470",
+      "identifier": "c8da6373660f6beeb0c8d542a194a7fe",
+      "type": "audio",
+      "partner": "tamwag",
+      "collection": "oh052"
+    },
+    {
+      "id": "tamwag/oh052/tamwag_oh052_cuid234",
+      "label": "tamwag_oh052_cuid234",
+      "identifier": "c8f59fe2f8f40e14da7b6ce8a1d17564",
+      "type": "video",
+      "partner": "tamwag",
+      "collection": "oh052"
+    },
+    {
+      "id": "tamwag/oh052/tamwag_OH052_cuid466",
+      "label": "tamwag_OH052_cuid466",
+      "identifier": "cca99ed5cf20c51b92e864f616d11a37",
+      "type": "audio",
+      "partner": "tamwag",
+      "collection": "oh052"
+    },
+    {
+      "id": "tamwag/oh052/OH-052_ref34",
+      "label": "OH-052_ref34",
+      "identifier": "d1638300cfa092e60c264600fc018e57",
+      "type": "audio",
+      "partner": "tamwag",
+      "collection": "oh052"
+    },
+    {
+      "id": "tamwag/oh052/tamwag_oh052_cuid218",
+      "label": "tamwag_oh052_cuid218",
+      "identifier": "db97814e884640e662f01120d32e30fc",
+      "type": "video",
+      "partner": "tamwag",
+      "collection": "oh052"
+    },
+    {
+      "id": "tamwag/oh052/OH-052_ref62",
+      "label": "OH-052_ref62",
+      "identifier": "de78c42b6a65ef81d595dae1806c99de",
+      "type": "video",
+      "partner": "tamwag",
+      "collection": "oh052"
+    },
+    {
+      "id": "tamwag/oh052/tamwag_OH052_cuid475",
+      "label": "tamwag_OH052_cuid475",
+      "identifier": "dfbeea8bae0b03688adc183aa4b9c59f",
+      "type": "audio",
+      "partner": "tamwag",
+      "collection": "oh052"
+    },
+    {
+      "id": "tamwag/oh052/tamwag_oh052_cuid219",
+      "label": "tamwag_oh052_cuid219",
+      "identifier": "e0762f69eee3236c4f35653fff637e3c",
+      "type": "video",
+      "partner": "tamwag",
+      "collection": "oh052"
+    },
+    {
+      "id": "tamwag/oh052/tamwag_OH052_cuid467",
+      "label": "tamwag_OH052_cuid467",
+      "identifier": "e96f2647031ec390856b3b6e3c81eb9e",
+      "type": "audio",
+      "partner": "tamwag",
+      "collection": "oh052"
+    },
+    {
+      "id": "tamwag/oh052/tamwag_oh052_cuid233",
+      "label": "tamwag_oh052_cuid233",
+      "identifier": "f9675dcf2b42248c854c15220d89b954",
+      "type": "video",
+      "partner": "tamwag",
+      "collection": "oh052"
+    },
+    {
+      "id": "tamwag/oh052/tamwag_oh052_cuid217",
+      "label": "tamwag_oh052_cuid217",
+      "identifier": "fbd459ae7a6d9f0e60afa8c02b476620",
+      "type": "video",
+      "partner": "tamwag",
+      "collection": "oh052"
+    },
+    {
+      "id": "tamwag/rosie/18_THE_POWELLS",
+      "label": "18_THE_POWELLS",
+      "identifier": "05c2a6a84e3cd008a6e61384efc5fae8",
+      "type": "video",
+      "partner": "tamwag",
+      "collection": "rosie"
+    },
+    {
+      "id": "tamwag/rosie/29_WINONA_GILLESPIE",
+      "label": "29_WINONA_GILLESPIE",
+      "identifier": "0692d60b102b8cb05189be4393138509",
+      "type": "video",
+      "partner": "tamwag",
+      "collection": "rosie"
+    },
+    {
+      "id": "tamwag/rosie/16_MAZIE_MULLINS",
+      "label": "16_MAZIE_MULLINS",
+      "identifier": "06feaca11be0ed06adc4da0522b0a38c",
+      "type": "video",
+      "partner": "tamwag",
+      "collection": "rosie"
+    },
+    {
+      "id": "tamwag/rosie/28_NELL_YOUNG",
+      "label": "28_NELL_YOUNG",
+      "identifier": "08879bd626c85f9fcc8d0ab0e496e244",
+      "type": "video",
+      "partner": "tamwag",
+      "collection": "rosie"
+    },
+    {
+      "id": "tamwag/rosie/14_DORICE_DORINE_HAMILTON",
+      "label": "14_DORICE_DORINE_HAMILTON",
+      "identifier": "09ee699e86608b6ac519bf754b99dc50",
+      "type": "video",
+      "partner": "tamwag",
+      "collection": "rosie"
+    },
+    {
+      "id": "tamwag/rosie/26_EILEEN_TENCH",
+      "label": "26_EILEEN_TENCH",
+      "identifier": "0b9299b3608655710089f984f89d1b17",
+      "type": "video",
+      "partner": "tamwag",
+      "collection": "rosie"
+    },
+    {
+      "id": "tamwag/rosie/8_ROBEY_GIRLS",
+      "label": "8_ROBEY_GIRLS",
+      "identifier": "12e6c96c5af5158a50960c13bf1f828b",
+      "type": "video",
+      "partner": "tamwag",
+      "collection": "rosie"
+    },
+    {
+      "id": "tamwag/rosie/5_BALTIMORE_ROSIES",
+      "label": "5_BALTIMORE_ROSIES",
+      "identifier": "13436569b66adf2fde8e2cfc422bb10d",
+      "type": "video",
+      "partner": "tamwag",
+      "collection": "rosie"
+    },
+    {
+      "id": "tamwag/rosie/13_EVELYN_DAVIDSON",
+      "label": "13_EVELYN_DAVIDSON",
+      "identifier": "1587c930f46793441d29e55b8f9dcb2d",
+      "type": "video",
+      "partner": "tamwag",
+      "collection": "rosie"
+    },
+    {
+      "id": "tamwag/rosie/21_SHIRLEY_CLARK",
+      "label": "21_SHIRLEY_CLARK",
+      "identifier": "1fd50bbe4a71bf74afe49931c132c5c9",
+      "type": "video",
+      "partner": "tamwag",
+      "collection": "rosie"
+    },
+    {
+      "id": "tamwag/rosie/3_VIOLET_JOHNSON",
+      "label": "3_VIOLET_JOHNSON",
+      "identifier": "246a1e3cb0a495e6e60b8b8bf3ad1b61",
+      "type": "video",
+      "partner": "tamwag",
+      "collection": "rosie"
+    },
+    {
+      "id": "tamwag/rosie/31_MARION_YAGODA",
+      "label": "31_MARION_YAGODA",
+      "identifier": "2739129fc82a910d5994677ffc197be3",
+      "type": "video",
+      "partner": "tamwag",
+      "collection": "rosie"
+    },
+    {
+      "id": "tamwag/rosie/20_ARKIE_HUFFMAN",
+      "label": "20_ARKIE_HUFFMAN",
+      "identifier": "3ba3381b356de9d8a2b2d9c66d0ccfe4",
+      "type": "video",
+      "partner": "tamwag",
+      "collection": "rosie"
+    },
+    {
+      "id": "tamwag/rosie/9_JANE_TUCKER",
+      "label": "9_JANE_TUCKER",
+      "identifier": "3fc930419d239d40dc7d04cc521044fa",
+      "type": "video",
+      "partner": "tamwag",
+      "collection": "rosie"
+    },
+    {
+      "id": "tamwag/rosie/4_IDILIA_JOHNSTON",
+      "label": "4_IDILIA_JOHNSTON",
+      "identifier": "429130a6961de60a9d683484682d6e7d",
+      "type": "video",
+      "partner": "tamwag",
+      "collection": "rosie"
+    },
+    {
+      "id": "tamwag/rosie/23_FRANCES_ELLIS",
+      "label": "23_FRANCES_ELLIS",
+      "identifier": "659bdedb88121c0d4e765335baf540a6",
+      "type": "video",
+      "partner": "tamwag",
+      "collection": "rosie"
+    },
+    {
+      "id": "tamwag/rosie/22_EDITH_LYONS",
+      "label": "22_EDITH_LYONS",
+      "identifier": "75b49365bf048a4d83d45c961e3ac90d",
+      "type": "video",
+      "partner": "tamwag",
+      "collection": "rosie"
+    },
+    {
+      "id": "tamwag/rosie/24_ARLENE_CRARY",
+      "label": "24_ARLENE_CRARY",
+      "identifier": "75e1a97d4e40004adb593c7b691d6595",
+      "type": "video",
+      "partner": "tamwag",
+      "collection": "rosie"
+    },
+    {
+      "id": "tamwag/rosie/10_SIGNE_NAKASHIMA",
+      "label": "10_SIGNE_NAKASHIMA",
+      "identifier": "8163e7de3bcba8f2270c8b986e02470f",
+      "type": "video",
+      "partner": "tamwag",
+      "collection": "rosie"
+    },
+    {
+      "id": "tamwag/rosie/32_ANGELINE_FLEMING",
+      "label": "32_ANGELINE_FLEMING",
+      "identifier": "8b58ae620480c3fb536f20b9ad6335f3",
+      "type": "video",
+      "partner": "tamwag",
+      "collection": "rosie"
+    },
+    {
+      "id": "tamwag/rosie/15_THE_CARTERS",
+      "label": "15_THE_CARTERS",
+      "identifier": "8ec75316672f52033859dd3d4afd1819",
+      "type": "video",
+      "partner": "tamwag",
+      "collection": "rosie"
+    },
+    {
+      "id": "tamwag/rosie/25_CATHERINE_GAULTIER",
+      "label": "25_CATHERINE_GAULTIER",
+      "identifier": "a0b7acb874f95308fb4054dfa4a74faa",
+      "type": "video",
+      "partner": "tamwag",
+      "collection": "rosie"
+    },
+    {
+      "id": "tamwag/rosie/2_ESTHER_HORNE",
+      "label": "2_ESTHER_HORNE",
+      "identifier": "a3fb1385a6cb1092c69b6f8aab6dfdf4",
+      "type": "video",
+      "partner": "tamwag",
+      "collection": "rosie"
+    },
+    {
+      "id": "tamwag/rosie/30_THELMA_EDGAR",
+      "label": "30_THELMA_EDGAR",
+      "identifier": "a5f0229e2caea441412330ce5168045d",
+      "type": "video",
+      "partner": "tamwag",
+      "collection": "rosie"
+    },
+    {
+      "id": "tamwag/rosie/19_MATHAUSER_TWINS",
+      "label": "19_MATHAUSER_TWINS",
+      "identifier": "adda600163e1d0bcfa11ff24d54eec54",
+      "type": "video",
+      "partner": "tamwag",
+      "collection": "rosie"
+    },
+    {
+      "id": "tamwag/rosie/6_SUSAN_TAYLOR_KING",
+      "label": "6_SUSAN_TAYLOR_KING",
+      "identifier": "aed320e3948694dfd417fa5b3a2ea950",
+      "type": "video",
+      "partner": "tamwag",
+      "collection": "rosie"
+    },
+    {
+      "id": "tamwag/rosie/27_MABEL_MYRICK",
+      "label": "27_MABEL_MYRICK",
+      "identifier": "afbbf297eae6ab054fbda478f9452b5d",
+      "type": "video",
+      "partner": "tamwag",
+      "collection": "rosie"
+    },
+    {
+      "id": "tamwag/rosie/11_MARY_ANNE_DIAMOND",
+      "label": "11_MARY_ANNE_DIAMOND",
+      "identifier": "b5edabfcf12394393a72e4b06b556de5",
+      "type": "video",
+      "partner": "tamwag",
+      "collection": "rosie"
+    },
+    {
+      "id": "tamwag/rosie/1_JERRE_KALBAS",
+      "label": "1_JERRE_KALBAS",
+      "identifier": "c55b1b8d67aec9ad91344a64c57a0a7f",
+      "type": "video",
+      "partner": "tamwag",
+      "collection": "rosie"
+    },
+    {
+      "id": "tamwag/rosie/33_EVA_CHENEVERT",
+      "label": "33_EVA_CHENEVERT",
+      "identifier": "c9aadb200c70bd09329808c030d920cc",
+      "type": "video",
+      "partner": "tamwag",
+      "collection": "rosie"
+    },
+    {
+      "id": "tamwag/rosie/7_BONNIE_GIFFORD",
+      "label": "7_BONNIE_GIFFORD",
+      "identifier": "d05b4a451934bbed238c5d78e9d0dd5a",
+      "type": "video",
+      "partner": "tamwag",
+      "collection": "rosie"
+    },
+    {
+      "id": "tamwag/rosie/17_IDAMAE_MASON",
+      "label": "17_IDAMAE_MASON",
+      "identifier": "d7b1e74b507bb026cb6c407e8a93653d",
+      "type": "video",
+      "partner": "tamwag",
+      "collection": "rosie"
+    },
+    {
+      "id": "tamwag/rosie/12_MILDRED_C_SARGENT",
+      "label": "12_MILDRED_C_SARGENT",
+      "identifier": "e04db6a915e9325e33069836b05ea904",
+      "type": "video",
+      "partner": "tamwag",
+      "collection": "rosie"
+    }
+  ]
+}

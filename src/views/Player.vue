@@ -1,14 +1,11 @@
 <template>
-  <div id="page" class="page">
-    <div role="main" id="main" class="pane main">
-      <div role="presentation" id="display" :data-type="type" class="pane display">
-        <div
-          class="dlts_playlist flowplayer is-splash"
-          :id="identifier"
-          :style="{ backgroundImage: `url('${poster}')` }"
-        ></div>
-      </div>
-    </div>
+  <div class="page">
+    <div
+      class="flowplayer fp-edgy"
+      :id="identifier"
+      :data-type="type"
+      :style="{ backgroundImage: `url('${poster}')` }"
+    ></div>
     <div
       v-if="isBusy"
       class="d-flex justify-content-center mb-3"
@@ -34,6 +31,7 @@ import * as engine from 'flowplayer-hlsjs';
 import * as plugin from 'flowplayer-audio';
 
 engine(flowplayer);
+
 plugin(flowplayer);
 
 const playerKey: string = process.env.VUE_APP_PLAYER_KEY;
@@ -55,6 +53,7 @@ interface Clip {
   time: number;
   src: string;
   sources: Manifest[];
+  audio: boolean;
 }
 
 export default Vue.extend({
@@ -62,10 +61,13 @@ export default Vue.extend({
     return {
       endpoint: resourcesEndpoint,
       title: '',
+      partner: '',
+      collection: '',
       identifier: '',
       type: '',
       share: false,
       isBusy: true,
+      audioOnly: false,
       configuration: {
         key: playerKey,
         splash: true,
@@ -76,12 +78,17 @@ export default Vue.extend({
   },
   mounted(): void {
     this.identifier = this.$route.params.identifier;
+    this.collection = this.$route.params.collection;
+    this.partner = this.$route.params.partner;
     this.$nextTick(() => {
       this.fetchData();
     });
   },
   methods: {
     getTypeFromUri(uri: string): string {
+      if (!uri) {
+        throw `getTypeFromUri - URI can not be empty`;
+      }
       const ext: string | undefined = uri.split('.').pop();
       switch (ext) {
         case 'm3u8':
@@ -92,6 +99,9 @@ export default Vue.extend({
     },
 
     buildUri(uri: string): string {
+      if (!uri) {
+        throw `buildUri - URI can not be empty`;
+      }
       const regex: RegExp = /([a-zA-Z]+):\/\/(.+)/;
       const test: RegExpMatchArray | null = uri.match(regex);
       if (test && test.length === 3) {
@@ -109,7 +119,7 @@ export default Vue.extend({
 
     fetchData(): void {
       this.isBusy = true;
-      fetch(`${this.endpoint}/${this.identifier}.json`)
+      fetch(`${this.endpoint}/${this.partner}/${this.collection}/${this.identifier}.json`)
         .then((response: Response) => {
           if (response.ok) {
             return response.json();
@@ -117,8 +127,11 @@ export default Vue.extend({
           throw new Error('Network response was not ok.');
         })
         .then((data: any) => {
-          if (data.poster) {
-            this.poster = this.buildUri(data.poster);
+          if (data.thumbnails && data.thumbnails.length) {
+            this.poster = this.buildUri(data.thumbnails.pop());
+          }
+          if (data.type) {
+            this.audioOnly = data.type === 'audio' ? true : false;
           }
           // current playback position in seconds
           const time: number = 0;
@@ -132,9 +145,9 @@ export default Vue.extend({
           // player object
           for (let item of data.manifests) {
             // path to currently playing video as given on setup
-            const src: string = this.buildUri(item.manifest);
+            const src: string = this.buildUri(item);
             // video format (media type)
-            const type: string = this.getTypeFromUri(item.manifest);
+            const type: string = this.getTypeFromUri(item);
             const source: Manifest = {
               type: type,
               src: src,
@@ -145,13 +158,14 @@ export default Vue.extend({
               time: time,
               src: src,
               sources: [source],
+              audio: this.audioOnly,
             };
             // add clip to playlist
             playlist.push(clip);
           }
           // add clip to playlist
           this.configuration.playlist = playlist;
-          this.title = data.video.id;
+          this.title = data.label;
           document.title = this.title;
           this.type = data.type;
           this.isBusy = false;
@@ -169,6 +183,7 @@ export default Vue.extend({
           // you configure both.
           splash: this.configuration.splash,
           key: this.configuration.key,
+          audioOnly: this.audioOnly,
         };
 
         // https://flowplayer.com/developers/player/flowplayer-7/playlists

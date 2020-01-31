@@ -26,10 +26,9 @@
     height: auto;
 }
 
-@import "_base";
 @import "_functions";
-@import "_reset";
 @import "_variables";
 @import "https://releases.flowplayer.org/7.2.7/skin/skin.css";
 @import "https://releases.flowplayer.org/audio/flowplayer.audio.css";
+@import "_base";
 @import "_player";
