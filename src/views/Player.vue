@@ -186,10 +186,22 @@ export default Vue.extend({
           audioOnly: this.audioOnly,
         };
 
+        const elm = document.getElementById(this.identifier);
+
+        if (!elm) throw `Unable to find element with id "${this.identifier}"`;
+
         // https://flowplayer.com/developers/player/flowplayer-7/playlists
         // https://flowplayer.com/help/player/flowplayer-7/api.html
         /* eslint-disable-next-line no-undef */
-        const api = flowplayer(document.getElementById(this.identifier), this.configuration);
+        const api = flowplayer(elm, this.configuration);
+
+        // audio player sets margin-top to -30px automatically
+        // not sure why; but when the content is embded, the
+        // palyer ends outside the viewport.
+        if (this.audioOnly) {
+          /* eslint-disable-next-line */
+          elm.setAttribute('style', 'position: absolute; top:0; margin-top: 0 !important; height: 38px;');
+        }
 
         api.on('finish', (e: Event, api: any): void => {
           // all players go to splash state on finish

@@ -80,6 +80,18 @@
       ok-only
       @hide="resetInfoModal"
     >
+      <div v-bind:class="{ audio: infoModal.item.type === 'audio' }">
+        <b-embed
+          class="border"
+          type="iframe"
+          aspect="16by9"
+          :src="infoModal.embedPlayer"
+          allowfullscreen
+        >
+        </b-embed>
+        <small>iframe source: {{ `${origin}${infoModal.embedPlayer}` }}</small>
+      </div>    
+      <hr />
       <h5>Label</h5>
       <p>{{ infoModal.label }}</p>
       <hr />
@@ -109,19 +121,6 @@
           {{ manifest }}
         </li>
       </ul>
-      <hr />
-      <h5>Embeded player</h5>
-      <div v-bind:class="{ audio: infoModal.item.type === 'audio' }">
-        <p>iframe source: {{ `${origin}${infoModal.embedPlayer}` }}</p>
-        <b-embed
-          class="border"
-          type="iframe"
-          aspect="16by9"
-          :src="infoModal.embedPlayer"
-          allowfullscreen
-        >
-        </b-embed>
-      </div>
       <hr />
       <h5>JSON response</h5>
       <b-form-textarea v-model="infoModal.code" rows="10"></b-form-textarea>

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/media/apis/html-player/precache-manifest.59b202ccafcfd3b6996a9673fbdbb91b.js"
+  "/media/apis/html-player/precache-manifest.9ab8941b81c0070e5fc2a85eac9aa24e.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "dlts-media-vue"});
