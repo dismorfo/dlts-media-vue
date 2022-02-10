@@ -17,7 +17,7 @@
     "flowplayer": "^7.2.7",
     "flowplayer-audio": "flowplayer/flowplayer-audio",
     "flowplayer-hlsjs": "flowplayer/flowplayer-hlsjs",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "register-service-worker": "^1.6.2",
     "vue": "^2.6.10",
     "vue-class-component": "^7.0.2",
